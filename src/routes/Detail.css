@@ -1,0 +1,26 @@
+.moviedetail {
+    background-color: rgb(255, 255, 255);
+    width: 85vmin;
+    margin-bottom: 200px;
+    padding: 100px;
+    color: black;
+}
+
+.movie__dtitle {
+    margin-bottom: 5px;
+    font-size: 28px;
+    color: #2c2c2c;
+    font-weight: 400;
+}
+
+.movie__dgenres li{
+    margin-right: 7px;
+    font-size: 16px;
+}
+
+.movie__ddata {
+    margin: 0;
+    font-size: 19px;
+    font-weight: 400;
+}
+
